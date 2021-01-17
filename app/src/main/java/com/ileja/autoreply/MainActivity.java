@@ -1,11 +1,8 @@
 package com.ileja.autoreply;
 
-import android.app.KeyguardManager;
-import android.content.Context;
 import android.os.Bundle;
-import android.os.PowerManager;
-import android.support.v7.app.AppCompatActivity;
-import android.view.WindowManager;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
